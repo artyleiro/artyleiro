@@ -1,11 +1,11 @@
 {
   "files.exclude": {
-    "**/.nuxt" :true,
-    "**/.output" :true,
+    "**/.nuxt": true,
+    "**/.output": true,
     
     "**/bun.lockb": true,
 
-    "**/dist" :true,
-    "**/node_modules" :true
+    "**/dist": false,
+    "**/node_modules": true
   }
 }
