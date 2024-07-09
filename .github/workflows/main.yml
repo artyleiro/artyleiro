@@ -5,7 +5,7 @@ on:
     branches: [main]
 
 env:
-  NUXT_APP_BASE_URL: "/artyleiro/"
+  NUXT_APP_BASE_URL: /artyleiro/
 
 permissions:
   contents: read
